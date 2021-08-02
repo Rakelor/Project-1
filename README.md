@@ -22,7 +22,10 @@ List of the features ready and TODOs for future Development
 To-do list:
 * Make it so that the requestor gets a notification that their order was rejected due to improper timing, etc.
 * Re-work the workflow to make it so that it is only activated during proper times.
+* Make it so that unchecking the catering checkbox clears the other order.
 * Update the workflow to have better approval flow.
+* Remove Quanitity if catering is chosen.
+* Add a when option to ordering your sub.
 
 ## Getting Started
 
@@ -99,3 +102,16 @@ function onLoad() {
 }
 }
 ![image](https://user-images.githubusercontent.com/80430334/127917131-aabaa354-02b2-4eb9-972d-7ce81469e446.png)
+
+##Usage
+
+>To use the item simply go to the service catalog, and select Services. The subs ordering menu will appear as one of the options with a Sub picture beside it.
+![image](https://user-images.githubusercontent.com/80430334/127918620-a2be3cbf-a721-4f0f-8eed-d25db7fae91e.png)
+After clicking the option you have two choices: ordering catering, or ordering a sub. Multiple subs can be ordered, but catering can only choose on option from several variables with additional options added. Clicking "Add" on ordering your sub allows you to choose which bread and ingredients you want in the sub and autopopulates your name.
+![image](https://user-images.githubusercontent.com/80430334/127919700-88dc7d92-b48e-4ab6-832e-a3eeab2eddec.png)
+If you choose catering you get several option for choosing what you want to be catered as well as options for the catering: tea dispenser, provided seating. You also fill out the address, date, and time of the event.
+![image](https://user-images.githubusercontent.com/80430334/127920083-ba04ab01-42d1-4aee-bd37-af4a93573315.png)
+After clicking order it will be in the hands of the "Sandwich Artists" and you will get a stage summary to look at.
+![image](https://user-images.githubusercontent.com/80430334/127920285-f6153b7a-2bef-4826-aa30-269410e821f1.png)
+If you chose to order a sub you would go to get it when it is ready, and if you chose catering you would wait until the time arrives, unless the request is rejected for improper timing.
+
