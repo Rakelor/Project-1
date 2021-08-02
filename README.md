@@ -115,3 +115,5 @@ After clicking order it will be in the hands of the "Sandwich Artists" and you w
 ![image](https://user-images.githubusercontent.com/80430334/127920285-f6153b7a-2bef-4826-aa30-269410e821f1.png)
 If you chose to order a sub you would go to get it when it is ready, and if you chose catering you would wait until the time arrives, unless the request is rejected for improper timing.
 
+## Contributors
+>Nicolas E. Bauer
